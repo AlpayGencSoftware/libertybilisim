@@ -25,7 +25,7 @@ export function CTA() {
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
               <Link
-                href="tel:+902120000000"
+                href="tel:+905392164273"
                 className="inline-flex h-11 items-center justify-center rounded-lg border border-slate-600 px-8 text-base font-medium text-slate-200 transition-colors hover:bg-slate-800"
               >
                 Bizi Arayın

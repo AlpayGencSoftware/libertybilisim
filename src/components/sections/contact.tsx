@@ -27,7 +27,7 @@ export function Contact() {
               </div>
               <div>
                 <h3 className="font-semibold text-slate-900">Telefon</h3>
-                <p className="mt-1 text-slate-600">+90 (212) 000 00 00</p>
+                <p className="mt-1 text-slate-600">0539 216 42 73</p>
               </div>
             </div>
 
